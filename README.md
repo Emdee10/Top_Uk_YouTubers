@@ -1,5 +1,5 @@
 # OLOLADE AKANDE PORTFOLIO
-## Data analyst expert in Excel, SQL and PowerBI
+## Data analyst expert in Excel, SQL, DAX measures and PowerBI
 
 
 ![youtube-animated-diagram](assests/images/youtubelogo.gif)
