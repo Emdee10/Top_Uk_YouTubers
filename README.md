@@ -1,8 +1,6 @@
 # OLOLADE AKANDE PORTFOLIO
 ## Data analyst expert in Excel, SQL and PowerBI
 
-![profile-picture](assests/images/profile_pic.PNG)
-
 
 ![youtube-animated-diagram](assests/images/youtubelogo.gif)
 
